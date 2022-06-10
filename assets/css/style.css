@@ -911,6 +911,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio #portfolio-flters {
   padding: 0;
+  
   margin: 0 auto 25px auto;
   list-style: none;
   text-align: center;
@@ -2034,3 +2035,4 @@ section {
   font-size: 13px;
   color: #000000;
 }
+

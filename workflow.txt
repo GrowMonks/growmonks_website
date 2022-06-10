@@ -1,0 +1,16 @@
+- arrray of all the data to be printed
+- as you add an element in the array, a new tile will be printed on the website
+- in the array, each element will have a unique id 
+- from the unique id, we can print specific details from that array
+
+
+index.html ->
+print number of tiles equivalent of the length of the array
+and each tile should direct to a new page of the uniqu id
+
+portfolio-details page ->
+access the unique id from the url
+and then print that specific data from the array
+
+
+didnt check for responsive
